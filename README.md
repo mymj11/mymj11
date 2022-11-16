@@ -23,8 +23,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymj11&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=mymj11&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=mymj11&show_icons=true"><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mymj11&show_icons=true&theme=transparent)
 
 
