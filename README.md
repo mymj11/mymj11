@@ -6,7 +6,8 @@
   <p>✨Platforms & Languages ✨</p>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/HTML-#ECD53F?style=flat-square&logo=firebase&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-ECD53F?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-#FF9E0F?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-#512BD4?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-#9999FF?style=flat-square&logo=firebase&logoColor=white"/>
@@ -26,7 +27,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymj11&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=mymj11&show_icons=true">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mymj11&show_icons=true&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mymj11&show_icons=true&bg_color=00000000)
 
 
 <!--
