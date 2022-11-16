@@ -21,7 +21,7 @@
 <br>
 <img src="https://img.shields.io/badge/VS Code-535D6C?style=flat-square&logo=VS Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<br><br>
+<br><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mymj11&show_icons=true&theme=transparent)
 
